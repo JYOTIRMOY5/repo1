@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6ED5-4761
+
+ Directory of C:\Users\JYOTIRMOY NATH\Desktop\MyProject
+
+09-06-2021  23:00    <DIR>          .
+09-06-2021  23:00    <DIR>          ..
+09-06-2021  23:00                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  932,499,841,024 bytes free
